@@ -6,8 +6,8 @@ import sys
 
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-email = 'phishban@gmail.com' 
-password = 'zmwy unkd flgd bdra'  
+email = '' 
+password = ''  
 
 def cargar_plantilla(plantilla):
     if plantilla == "Correo AIEP":
